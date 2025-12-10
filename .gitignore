@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Output
+out/*.txt
+out/*.csv
+
+# ROS2
+build/
+install/
+log/
